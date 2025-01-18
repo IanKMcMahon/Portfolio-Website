@@ -4,9 +4,9 @@ import React from 'react';
 
 const BannerMessage = () => {
   return (
-    <Div>
+    <div>
         <h3>Here is my Bio</h3>
-    </Div>
+    </div>
   );
 };
 
